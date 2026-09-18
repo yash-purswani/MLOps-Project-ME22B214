@@ -9,7 +9,7 @@ Given a set of multi-view images of a scene, the application recovers the 3D str
 * Cultural Heritage Digitization
 * Surveying and Topography
 
-The offical documentation and guide for this project can be found [here](https://bracedhornet186.github.io/MLOps-Project-ME22B214).
+The offical documentation and guide for this project can be found [here](https://yash-purswani.github.io/MLOps-Project-ME22B214).
 
 ## Architecture
 
